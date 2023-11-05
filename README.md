@@ -1,2 +1,7 @@
 # movie-recommender-system
-#using numpy,pandas,sklearn,pickle etc
+numpy
+pandas
+sklearn
+pickle
+streamlit
+python
