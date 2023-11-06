@@ -1,7 +1,2 @@
 # movie-recommender-system
-numpy
-pandas
-sklearn
-pickle
-streamlit
-python
+Project link: https://shashikr-mrs-e45546930f38.herokuapp.com/
